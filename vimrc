@@ -2,6 +2,9 @@ let mapleader=","
 
 set pastetoggle=<leader>p  "turn off paste-munging features w/ hotkey
 
+nnoremap <c-j> 5j
+nnoremap <c-k> 5k
+
 colo zenburn
 
 "nnoremap ; :
